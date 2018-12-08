@@ -1,4 +1,4 @@
-package algorithms;
+package main.algorithms;
 
 /**
  * The Euclidean algorithm, also called Euclid's algorithm, is an algorithm for finding the greatest common divisor of two numbers
